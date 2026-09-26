@@ -131,6 +131,6 @@ Push and open a Pull Request 🎉
 This project is licensed under the MIT License – feel free to use, modify, and enhance!
 
 📫 Contact
-<p align="center"> Developed with ❤️ by <strong>Md Shohag Miah</strong><br/> 📧 <a href="mailto:devshohag3@gmail.com">devshohag3@gmail.com</a><br/> 🌐 <a href="https://github.com/mdshohagkhan" target="_blank">GitHub Profile</a> </p> ```
+<p align="center"> Developed with ❤️ by <strong>SONIA KHATUN</strong><br/> 📧 <a href="mailto:yesminsonia66@gmail.com">yesminsonia66@gmail.com</a><br/> 🌐 <a href="https://github.com/Sonia66Hub" target="_blank">GitHub Profile</a> </p> ```
 
 
