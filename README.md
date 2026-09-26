@@ -113,7 +113,7 @@ npm run build
 🎥 Demo Video
 
 🔹 Watch Full Walkthrough on YouTube
-👉 https://youtu.be/8HX-dVhEnjU?si=D4RaLoSEgY7QXsbp
+👉 https://youtu.be/NenSqgFcvT4
 
 ---
 🤝 Contribution Guide
